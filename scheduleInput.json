@@ -1,0 +1,24 @@
+[
+  {
+    "patientId": "1",
+    "schedule": {
+      "startDate": "01 Apr 2021",
+      "endDate": "01 Apr 2021",
+      "time": "10:00",
+      "duration": "60",//minutes"
+      "repeat": false,
+      "frequency": null
+    }
+  },
+  {
+    "patientId": "1",
+    "schedule": {
+      "startDate": "01 Apr 2021",
+      "endDate": "10 Apr 2021",
+      "time": "10:00",
+      "duration": "60",//minutes
+      "repeat": true,
+      "frequency": "Weekdays"
+    }
+  }
+]
