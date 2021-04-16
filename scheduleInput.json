@@ -1,22 +1,22 @@
 [
   {
-    "patientId": "1",
+    "employeeId": "1",
     "schedule": {
       "startDate": "01 Apr 2021",
       "endDate": "01 Apr 2021",
       "time": "10:00",
-      "duration": "60",//minutes"
+      "duration": "60",
       "repeat": false,
       "frequency": null
     }
   },
   {
-    "patientId": "1",
+    "employeeId": "1",
     "schedule": {
       "startDate": "01 Apr 2021",
       "endDate": "10 Apr 2021",
       "time": "10:00",
-      "duration": "60",//minutes
+      "duration": "60",
       "repeat": true,
       "frequency": "Weekdays"
     }
